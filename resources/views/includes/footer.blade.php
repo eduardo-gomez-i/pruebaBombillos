@@ -1,0 +1,1 @@
+<div id="copyright text-right">Gomez Ibarra Eduardo Manuel - Prueba de Lógica</div>
