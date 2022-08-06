@@ -33,7 +33,7 @@ Para ejecutar este proyecto es necesario ejecutar los siguientes comandos.
   php artisan serve
 ```
 
-Por ultimo es necesario acceder a 127.0.0.0:8000 en el navegador.
+Por ultimo es necesario acceder a 127.0.0.0:8000 o localhost:8000 en el navegador.
 
 
 ## Authors
